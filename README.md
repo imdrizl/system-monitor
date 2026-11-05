@@ -27,7 +27,8 @@ Run the program:
 ```python system_monitor.py```
 
 # Usage
-The dashboard automatically updates every second
+The dashboard automatically updates every second.
+
 Press Ctrl + C to terminate the program.
 
 # License
