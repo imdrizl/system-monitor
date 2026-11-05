@@ -32,7 +32,7 @@ The dashboard automatically updates every second.
 Press Ctrl + C to terminate the program.
 
 # License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
 
 # Author
 **imdrizl**
