@@ -19,8 +19,10 @@ No additional packages required
 # Installation
 Clone the Repository:
 ```git clone https://github.com/imdrizl/System-Monitor.git```
+
 Navigate into the project folder:
 ```cd System-Monitor```
+
 Run the program:
 ```python system_monitor.py```
 
